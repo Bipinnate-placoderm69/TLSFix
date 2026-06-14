@@ -1,0 +1,9 @@
+{
+    entry = {
+        cell = PSLinkCell;
+        label = "TLSFix";
+        isController = 1;
+        bundle = TLSFix;
+        icon = "/Library/PreferenceLoader/Preferences/tlsfix-icon.png";
+    };
+}
